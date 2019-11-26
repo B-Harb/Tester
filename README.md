@@ -16,7 +16,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #A9A9A9;
+  background-color: #777;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -28,7 +28,7 @@ nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #A9A9A9;
+  background: #777;
   padding: 20px;
 }
 
